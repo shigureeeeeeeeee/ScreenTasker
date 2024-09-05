@@ -57,11 +57,5 @@ This tool captures screenshots, analyzes the image content using AI (Gemini), an
 - Google authentication is required on first run. A browser will open, and you'll need to grant access.
 - A `token.pickle` file will be generated and used for subsequent authentications. Keep this file secure.
 
-## License
-[Insert license information here]
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## Author
-[Your name or contact information]
