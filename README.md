@@ -17,8 +17,7 @@ This tool captures screenshots, analyzes the image content using AI (Gemini), an
 ## Installation
 1. Clone the repository:
    ```
-   git clone [https://github.com/shigureeeeeeeeee/ScreenTasker.git]
-   cd [ScreenTasker]
+   git clone https://github.com/shigureeeeeeeeee/ScreenTasker.git
    ```
 
 2. Install required libraries:
